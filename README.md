@@ -1,2 +1,2 @@
 # Haresh-GenAi
-Nan Mudhalvan Project 
+Naan Mudhalvan Project 
