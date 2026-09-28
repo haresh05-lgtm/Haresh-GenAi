@@ -1,2 +1,2 @@
-# Haresh-GenAi
-Naan Mudhalvan Project 
+# KISHORE-GenAi
+Nan mudhalvan project 
